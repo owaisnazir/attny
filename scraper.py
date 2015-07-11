@@ -6,7 +6,7 @@ import urllib2
 #scraperwiki.sqlite.execute("create table bbb ('n1','add','ph','stat','email4','da','sou1')")
 #scraperwiki.sqlite.execute("create table Missinglink (`Link`)")
 mylist=[]
-mylist.append(")
+mylist.append("")
 
 
 email6=""
